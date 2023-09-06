@@ -1,0 +1,11 @@
+C:\Users\anilp\source\repos\HackerNews.Data.Abstract\bin\Debug\net6.0\HackerNews.Data.Abstract.deps.json
+C:\Users\anilp\source\repos\HackerNews.Data.Abstract\bin\Debug\net6.0\HackerNews.Data.Abstract.dll
+C:\Users\anilp\source\repos\HackerNews.Data.Abstract\bin\Debug\net6.0\HackerNews.Data.Abstract.pdb
+C:\Users\anilp\source\repos\HackerNews.Data.Abstract\obj\Debug\net6.0\HackerNews.Data.Abstract.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anilp\source\repos\HackerNews.Data.Abstract\obj\Debug\net6.0\HackerNews.Data.Abstract.AssemblyInfoInputs.cache
+C:\Users\anilp\source\repos\HackerNews.Data.Abstract\obj\Debug\net6.0\HackerNews.Data.Abstract.AssemblyInfo.cs
+C:\Users\anilp\source\repos\HackerNews.Data.Abstract\obj\Debug\net6.0\HackerNews.Data.Abstract.csproj.CoreCompileInputs.cache
+C:\Users\anilp\source\repos\HackerNews.Data.Abstract\obj\Debug\net6.0\HackerNews.Data.Abstract.dll
+C:\Users\anilp\source\repos\HackerNews.Data.Abstract\obj\Debug\net6.0\refint\HackerNews.Data.Abstract.dll
+C:\Users\anilp\source\repos\HackerNews.Data.Abstract\obj\Debug\net6.0\HackerNews.Data.Abstract.pdb
+C:\Users\anilp\source\repos\HackerNews.Data.Abstract\obj\Debug\net6.0\ref\HackerNews.Data.Abstract.dll

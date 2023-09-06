@@ -1,0 +1,12 @@
+C:\Users\anilp\source\repos\HackerNews.Data.Model\bin\Debug\net6.0\HackerNews.Data.Model.deps.json
+C:\Users\anilp\source\repos\HackerNews.Data.Model\bin\Debug\net6.0\HackerNews.Data.Model.dll
+C:\Users\anilp\source\repos\HackerNews.Data.Model\bin\Debug\net6.0\HackerNews.Data.Model.pdb
+C:\Users\anilp\source\repos\HackerNews.Data.Model\obj\Debug\net6.0\HackerNews.Data.Model.csproj.AssemblyReference.cache
+C:\Users\anilp\source\repos\HackerNews.Data.Model\obj\Debug\net6.0\HackerNews.Data.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anilp\source\repos\HackerNews.Data.Model\obj\Debug\net6.0\HackerNews.Data.Model.AssemblyInfoInputs.cache
+C:\Users\anilp\source\repos\HackerNews.Data.Model\obj\Debug\net6.0\HackerNews.Data.Model.AssemblyInfo.cs
+C:\Users\anilp\source\repos\HackerNews.Data.Model\obj\Debug\net6.0\HackerNews.Data.Model.csproj.CoreCompileInputs.cache
+C:\Users\anilp\source\repos\HackerNews.Data.Model\obj\Debug\net6.0\HackerNews.Data.Model.dll
+C:\Users\anilp\source\repos\HackerNews.Data.Model\obj\Debug\net6.0\refint\HackerNews.Data.Model.dll
+C:\Users\anilp\source\repos\HackerNews.Data.Model\obj\Debug\net6.0\HackerNews.Data.Model.pdb
+C:\Users\anilp\source\repos\HackerNews.Data.Model\obj\Debug\net6.0\ref\HackerNews.Data.Model.dll

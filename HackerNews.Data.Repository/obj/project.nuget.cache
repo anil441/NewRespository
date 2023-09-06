@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "F6RK/RbVwVHN+/snpwMTTyjhpuPulfSxbba3oLwVDI+blNSRmpN6we5ucy4QOUsjIiF2YOQFiMNr6tT96PS13A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\anilp\\source\\repos\\HackerNews.Data.Repository\\HackerNews.Data.Repository.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\anilp\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

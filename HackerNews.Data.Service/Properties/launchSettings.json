@@ -1,0 +1,12 @@
+﻿{
+  "profiles": {
+    "HackerNews.Data.Service": {
+      "commandName": "Project",
+      "launchBrowser": true,
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Development"
+      },
+      "applicationUrl": "https://localhost:2993;http://localhost:2994"
+    }
+  }
+}
